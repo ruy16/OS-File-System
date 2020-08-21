@@ -5,6 +5,9 @@
 	This program can be distributed under the terms of the GNU GPL.
 	See the file COPYING.
 */
+/*Virtual file system in user space
+@Runyuan Yan*/
+
 
 #define	FUSE_USE_VERSION 26
 #include <stdbool.h> 
